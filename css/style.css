@@ -1291,7 +1291,7 @@ ul.features-responsive li i {
     background: linear-gradient(135deg,#990fc3 0,#760fc3 16%,#652ec3 52%,#652ec3 52%,#0dd3c5 100%,#7db9e8 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#990fc3", endColorstr="#7db9e8", GradientType=1 );
     box-shadow: rgba(33,33,33,.06) 0 4px 24px 5px;
-	padding: 50px 0 40px 0;
+	padding: 50px 25px 40px 25px;
 	color:#fff;
 	width: 90%;
 	margin-top:30;
@@ -1353,7 +1353,7 @@ ul.pricing-list li.price-text{
 	font-size: 16px;
 	line-height: 28px;
 	font-weight: 400;
-	margin-bottom: 5px;
+	margin-bottom: 13px;
 }
 
 ul.pricing-list li.price-tag a{
